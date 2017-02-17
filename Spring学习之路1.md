@@ -11,11 +11,17 @@
 第二步：选择Spring项目
 ![2](https://raw.githubusercontent.com/paddy10020/PersonalStudy-Spring/master/images/2.jpg)    
 
-第三步：项目名字
+第三步：填写项目名字然后Finish
 ![3](https://raw.githubusercontent.com/paddy10020/PersonalStudy-Spring/master/images/3.jpg)    
 
 第四步：修改项目的文件结构（Project Structure:	按alt + shift + clt + s），把src文件取消作为source，新建main和test，以main作为source，test作为test source。
 
-第五步：导入JUnit4的jar包（可以在Github上下载或者自行百度，导入jar包同样在Project Structure的Libraries）
+![4](https://raw.githubusercontent.com/paddy10020/PersonalStudy-Spring/master/images/4.jpg)
+
+第五步：导入JUnit4的jar包（可以在Github上下载或者自行百度），先复制jar包到lib文件夹上，再添加导入到项目里面。导入jar包在Project Structure的Libraries
+
+![5](https://raw.githubusercontent.com/paddy10020/PersonalStudy-Spring/master/images/5.jpg)
+
+![6](https://raw.githubusercontent.com/paddy10020/PersonalStudy-Spring/master/images/6.jpg)
 
 到此项目就建立完毕，可以开始正式的学习了。
